@@ -1,0 +1,50 @@
+
+
+body {
+	width: 96%;
+	margin: auto;
+}
+
+header {
+	text-align: center;
+}
+
+header img {
+	max-width: 50%;
+	margin-top: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-size: 25px;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+	text-align: justify;
+}
+
+figure {
+	background-color: #F2EDED;
+	border: 1px;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 94%;
+}
+
+figure img {
+	width: 100%;
+}
+
+#familia-pelho {
+	float: none;
+	margin: 10px auto;
+
+	max-width: 94%;
+	text-align:center;
+}
+
